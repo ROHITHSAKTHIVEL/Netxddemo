@@ -17,5 +17,16 @@ incase of conflicts resoled
 
 git push
 
+# git branching strategies
 
+git chekout -b <branch name>
 
+you can apply all the commands in the list #1
+
+# To publish the branch 
+
+git push -u origin <branch name>
+
+# To go to the main branch
+
+git checkout <branchname>
