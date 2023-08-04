@@ -1,6 +1,6 @@
 # Netxddemo
 
-# git learning
+# Git learning
 git clone <repository>
 
 1.LIST OF GIT COMMANDS
